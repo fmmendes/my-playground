@@ -10,6 +10,12 @@
   "author": "Filipe Moraes Mendes",
   "license": "ISC",
   "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
     "electron": "^11.1.1"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
   }
 }
